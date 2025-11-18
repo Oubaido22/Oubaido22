@@ -13,8 +13,6 @@
 📈 GitHub Stats & Analytics
 🔥 Streak & Contribution Heat
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oubaido22&theme=tokyonight&hide_border=true" /> </p>
-⚡ Performance Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Oubaido22&show_icons=true&theme=tokyonight&hide_border=true" /> </p>
 🧠 Most Used Languages
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oubaido22&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 🧩 AI & Data Engineering Toolbox
@@ -28,6 +26,8 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/LLMs-%2300B4D8.svg?&style=for-the-badge&logo=openai&logoColor=white" /> </p>
 🌀 Dynamic Activity (Real-time)
 🔮 Fun Animated Widgets
+🗂️ Latest GitHub Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oubaido22&theme=react-dark&hide_border=true&area=true" /> </p>
 💡 GitHub Metrics (Massive Data Dashboard)
 <p align="center"> <img src="https://metrics.lecoq.io/Oubaido22?template=classic&base=header,activity,community,repositories&isocalendar=1&languages=1&introduction=1&stars=1&followup=1&repos=1&achievements=1&lines=1&config.timezone=Africa/Tunis" /> </p>
 🧬 Snake Eating Contributions (Animated)
