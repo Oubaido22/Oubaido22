@@ -35,7 +35,7 @@
 🧬 Snake Eating Contributions (Animated)
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" /> </p>
 ✨ Connect With Me
-<p align="left"> <a href="https://www.linkedin.com/in/oubaido22"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/oubaid-loukil/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </p>
 
 
 
