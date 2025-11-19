@@ -14,7 +14,7 @@
 🔥 Streak & Contribution Heat
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oubaido22&theme=tokyonight&hide_border=true" /> </p>
 🧠 Most Used Languages
-<p align="center"> <img src="" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oubaido22&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 🧩 AI & Data Engineering Toolbox
 🔥 Languages
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp" /> </p>
